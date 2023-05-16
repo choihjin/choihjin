@@ -13,7 +13,6 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,mysql,git,github,idea)](https://skillicons.dev)
           </div>
     </div>
     <div style="text-align: left;">
