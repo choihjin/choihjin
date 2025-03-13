@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=a3aeff&height=120&text=Hi%20there!%20I'm%20Hyeokjin&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&text=AI%20Developer%20%7C%20Deep%20Learning%20Researcher&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 
 ## 안녕하세요 👋  
@@ -7,7 +7,7 @@
 Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,  
 다양한 산업-학술 협업 프로젝트를 진행하며 경험을 쌓아왔습니다.
 
-<br/>
+</br>
 
 ## 🛠 Tech Stacks
 **Languages**  
@@ -16,20 +16,24 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-**AI / Deep Learning**  
+**AI & Data Analysis**  
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-**Data Analysis**  
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
-**Tools**  
+**Databases & Backend**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+**DevOps & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 <br/>
 
@@ -52,21 +56,23 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 <br/>
 
 ## 🏅 Awards & Honors
-- **Daegu-Gyeongbuk Programming Competition Excellence Award** (2024)  
-- **2nd place, SW Festival AI Connect 6 Competition** (2023)  
-- **SW Festival Programming Competition Encouragement Award** (2023)  
-- **Academic Excellence Scholarship** (2023, 2022)  
+- **대경권 프로그래밍 경진대회 우수상** (2024)  
+- **SW 페스티벌 AI 육목 경진대회 금상** (2023)  
+- **SW 페스티벌 프로그래밍 경진대회 장려상** (2023)  
+- **성적 우수 장학금** (2023, 2022)  
 
 <br/>
 
-## 🧑‍💻 Contact Me
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@choihjin)  
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21900772@handong.ac.kr)
-
-<br/>
-
-## 📊 Stats
+## 📊 Algorithm
+- 2025.03.04 삼성 SW역량테스트 Level A - 삼성전자
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=choihjin&bg_color=60,a3e3ff,00d5ff&title_color=ffffff&text_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choihjin&layout=compact&bg_color=60,a3e3ff,00d5ff&title_color=ffffff&text_color=ffffff" />
+    <a href="https://solved.ac/profile/jjin6573">
+        <img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjin6573" />
+    </a>
 </div>
+
+<br/>
+
+## 🧑‍💻 Contact Me  
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@choihjin)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21900772@handong.ac.kr)
