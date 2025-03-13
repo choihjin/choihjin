@@ -59,12 +59,6 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 
 <br/>
 
-## 🧑‍💻 Contact Me  
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@choihjin)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21900772@handong.ac.kr)
-
-<br/>
-
 ## 📊 Stats
 <div>
     <a href="https://solved.ac/profile/jjin6573">
@@ -72,3 +66,9 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
     </a>
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=choihjin&bg_color=60,a3e3ff,00d5ff&title_color=ffffff&text_color=ffffff" />
 </div>
+
+<br/>
+
+## 🧑‍💻 Contact Me  
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@choihjin)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21900772@handong.ac.kr)
