@@ -1,8 +1,3 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-</script>
-
 <template>
   <div class="min-h-screen flex flex-col items-center justify-center">
     <nav class="p-4 flex gap-4">

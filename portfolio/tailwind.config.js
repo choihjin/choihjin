@@ -7,4 +7,5 @@ export default {
     extend: {},
   },
   plugins: [],
+  darkMode: "class", // ✅ 다크 모드 추가
 };
