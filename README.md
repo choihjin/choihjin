@@ -1,13 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0033ff&height=100&text=Hi%20there!%20I'm%20Hyeokjin&fontColor=ffffff&fontSize=50&desc=AI%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=20" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=Hyeokjin%20Choi&animation=fadeIn&fontColor=00e6e6&fontSize=50" />
 </div>
 
 ## 안녕하세요 👋  
 저는 **끊임없이 성장하는 개발자**입니다.  
 Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,  
 다양한 산업-학술 협업 프로젝트를 진행하며 경험을 쌓아왔습니다.
-
-<br/>
 
 ## 🛠 Tech Stacks
 **Languages**  
