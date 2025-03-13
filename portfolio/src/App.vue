@@ -5,15 +5,13 @@
       <!-- ABOUT ME & CONTACT -->
       <section id="about" class="flex justify-between items-start pb-6 border-b border-gray-300">
         <div class="w-1/2 pr-10">
-          <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
+          <h2 class="text-2xl font-bold text-left text-[rgba(84,119,173)] flex items-center">
             <span class="mr-2">👨🏻‍💻</span> ABOUT ME
           </h2>
           <p class="mt-4 text-md text-gray-700 leading-relaxed">
-            안녕하세요. AI & 데이터 엔지니어 최혁진입니다.<br>
-            대학교 1학년 1학기, 콘솔창에 "Hello World"를 출력하며 개발자로서의 첫 발자국을 내딛었습니다.<br>
-            오로지 소비의 수단이었던 노트북을 생산의 수단으로서 활용하는 재미에 빠진지 어느덧 4년이 지났습니다.<br>
-            아직 배울 것이 많지만, 그만큼 더 성장할 수 있음에 감사합니다.<br>
-            개발과 동료, 그리고 Python을 사랑합니다.
+            안녕하세요. 끊임없이 성장하는 개발자입니다.<br>
+            Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,<br>
+            다양한 산업-학술 협업 프로젝트를 진행하며 경험을 쌓아왔습니다.
           </p>
         </div>
         <div class="w-1/2 pl-10">
@@ -30,7 +28,9 @@
       
       <!-- EDUCATION -->
       <section id="education" class="py-5 border-b border-gray-200">
-        <p class="text-2xl font-bold text-default tracking-wide text-custom-blue">EDUCATION</p>
+        <h2 class="text-2xl font-bold text-left text-[rgba(84,119,173)] flex items-center">
+            <span class="mr-2">🎓</span> EDUCATION
+          </h2>
         <div class="md:grid md:grid-cols-5 md:gap-6 mt-2 text-md text-gray-700">
           <div>
             <p class="text-sm font-large text-gray-500">2019.03 ~ 2025.02</p>
@@ -40,6 +40,7 @@
             <ul>
               <li>AI 컴퓨터공학심화</li>
               <li class="font-bold">4.04 / 4.5</li>
+              <li class="font-bold">4.27 / 4.5 (major)</li>
             </ul>
           </div>
         </div>
@@ -47,45 +48,62 @@
       
       <!-- SKILLS -->
       <section id="skills" class="py-8 border-b border-gray-300">
-        <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
+        <h2 class="text-2xl font-bold text-left text-[rgba(84,119,173)] flex items-center">
           <span class="mr-2">🛠</span> SKILLS
         </h2>
-        <div class="md:grid md:grid-cols-5 md:gap-6 mt-6 text-md text-gray-700">
+        <div class="md:grid md:grid-cols-4 md:gap-6 mt-6 text-md text-gray-700">
+          <!-- Languages -->
           <div>
-            <p class="text-sm font-large text-gray-500 font-bold">Backend</p>
+            <p class="text-m font-large text-gray-500 font-bold">Languages</p>
           </div>
-          <div class="mt-4 md:mt-0 col-span-4">
-            <ul class="list-disc pl-6">
-              <li>Node.js (Express)</li>
-              <li>Javascript (ES6+), Typescript</li>
-              <li>MySQL, Sequelize, AWS RDS</li>
-              <li>AWS EC2, AWS S3</li>
+          <div class="col-span-3">
+            <ul class="list-disc">
+              <li>C / C++</li>
+              <li>Java</li>
+              <li>Python</li>
             </ul>
           </div>
-          <div class="mt-6">
-            <p class="text-sm font-large text-gray-500 font-bold">Frontend</p>
+
+          <!-- AI & Data Analysis -->
+          <div>
+            <p class="text-m font-large text-gray-500 font-bold">AI & Data Analysis</p>
           </div>
-          <div class="mt-4 md:mt-0 col-span-4">
-            <ul class="list-disc pl-6">
-              <li>HTML5, CSS3, Javascript (ES6+), Typescript</li>
-              <li>React, Next.js</li>
-              <li>TailwindCSS</li>
+          <div class="col-span-3">
+            <ul class="list-disc">
+              <li>PyTorch</li>
+              <li>TensorFlow</li>
+              <li>OpenCV</li>
+              <li>Numpy</li>
+              <li>Pandas</li>
+              <li>Matplotlib</li>
             </ul>
           </div>
-          <div class="mt-6">
-            <p class="text-sm font-large text-gray-500 font-bold">Tools</p>
+
+          <!-- Databases & Backend -->
+          <div>
+            <p class="text-m font-large text-gray-500 font-bold">Databases & Backend</p>
           </div>
-          <div class="mt-4 md:mt-0 col-span-4">
-            <ul class="list-disc pl-6">
-              <li>Git, GitHub</li>
-              <li>Slack, Notion, Jetbrain Space</li>
-              <li>Webstorm, VSCode, Vim</li>
-              <li>Postman</li>
-              <li>Sentry</li>
+          <div class="col-span-3">
+            <ul class="list-disc">
+              <li>MySQL</li>
+              <li>PostgreSQL</li>
+            </ul>
+          </div>
+
+          <!-- DevOps & Tools -->
+          <div>
+            <p class="text-m font-large text-gray-500 font-bold">DevOps & Tools</p>
+          </div>
+          <div class="col-span-3">
+            <ul class="list-disc">
+              <li>Git</li>
+              <li>GitHub</li>
+              <li>Linux</li>
             </ul>
           </div>
         </div>
       </section>
+
 
       <!-- CAREER -->
       <section id="career" class="py-8 border-b border-gray-300">
@@ -94,22 +112,13 @@
         </h2>
         <div class="md:grid md:grid-cols-5 md:gap-6 mt-6 text-md text-gray-700">
           <div>
-            <p class="text-sm font-large text-gray-500">2019.12 ~ 2020.02</p>
-            <p class="break-words font-bold sm:mt-0">지에이시스템</p>
-            <p class="text-gray-600">개발 인턴</p>
-          </div>
-          <div class="mt-4 md:mt-0 col-span-4">
-            <p>교내 산학연계 프로그램을 통해 SI 회사인 지에이시스템에서 2개월간 인턴으로 근무하였습니다.<br>
-              직접적으로 개발에 참여하진 못했지만, 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.</p>
-          </div>
-          <div class="mt-6">
-            <p class="text-sm font-large text-gray-500">2020.03 ~ 2021.03</p>
-            <p class="break-words font-bold sm:mt-0">오늘의꽃</p>
-            <p class="text-gray-600">백엔드 개발자</p>
+            <p class="text-sm font-large text-gray-500">2023.06 ~ 2024.12</p>
+            <p class="break-words font-bold sm:mt-0">HGU DeepLearning Lab</p>
+            <p class="text-gray-600">학부연구생</p>
           </div>
           <div class="mt-4 md:mt-0 col-span-4">
             <p>새벽 꽃 시장 유통업체인 오늘의꽃에서 클라이언트/판매자/관리자/물류관리자 페이지 기능 추가 및 유지 보수를 담당했습니다.<br>
-              Node.js(Express), MySQL(5.7)(Amazon RDS), Sequelize / ejs / Amazon EC2, Amazon S3, Amazon Lambda, Sentry, pm2, Git, Github</p>
+              Python, PyTotch, TensorFlow, OpenCV, Numpy, Linux, Git, Github</p>
             <p class="mt-4 font-bold">기능 추가</p>
             <ul class="list-disc pl-6">
               <li>포인트 기능 구현</li>
@@ -134,46 +143,53 @@
       <!-- AWARDS -->
       <section id="awards" class="py-8 border-b border-gray-300">
         <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
-          <span class="mr-2">🏆</span> AWARDS
+          <span class="mr-2">🏆</span> AWARDS & HONORS
         </h2>
-        <div class="md:grid md:grid-cols-5 md:gap-6 mt-6 text-md text-gray-700">
-          <div class="col-span-1">
-            <p class="text-sm font-large text-gray-500">2021-08 ~ 2021-11</p>
-            <p class="font-bold">2021 관광데이터 활용 공모전</p>
-            <p class="text-gray-600">한국관광공사, Kakao</p>
-          </div>
-          <div class="col-span-4">
-            <p>Moment, 세상에 하나뿐인 나만의 특별한 여행지도를 프로젝트로 <strong>장려상</strong>을 수상했습니다.</p>
-            <p><strong>Back-end 코드, Front-end 코드</strong></p>
-            <p>저는 백엔드 파트 팀원으로서 카카오 스토리 API 연동, 관광데이터 API 연동 기능을 구현하였고 환경 변수, Morgan, Husky 등의 프로젝트 세팅을 담당했습니다.</p>
-          </div>
+
+        <!-- <div class="md:grid md:grid-cols-5 md:gap-6 mt-6 text-md text-gray-700"> -->
+        <div class="md:gap-6 mt-6 text-md text-gray-700">
           <div class="col-span-1 mt-6">
-            <p class="text-sm font-large text-gray-500">2018-1학기</p>
-            <p class="font-bold">자기 주도 창의 설계 프로그램</p>
-            <p class="text-gray-600">세종고수학습지원센터</p>
+            <p class="text-sm font-large text-gray-500">2024.05.11</p>
+            <p class="font-bold">대경권 프로그래밍 경진대회 우수상</p>
+            <p class="text-gray-600">대구 경북 소재 SW중심대학사업단</p>
           </div>
-          <div class="col-span-4 mt-6">
-            <p>4명의 팀원과 함께 ‘헬로 미러’라는 프로젝트를 만들었고 <strong>장려상</strong>을 수상했습니다.</p>
-            <p>📄 해당 프로젝트 링크</p>
-            <p>저는 RaspbianOS 세팅, smart-mirror 오픈소스 커스터마이징(locale 변경, 시계/날씨/뉴스 API를 한국 기반으로 변경 등등), 보고서 작성을 담당했습니다.</p>
-          </div>
-          <div class="col-span-1 mt-6">
-            <p class="text-sm font-large text-gray-500">2018-1학기</p>
-            <p class="font-bold">스마트 APP 개발 공모전</p>
-            <p class="text-gray-600">고려대학교 세종캠퍼스 IT지원팀</p>
-          </div>
-          <div class="col-span-4 mt-6">
-            <p>저 포함 2명의 팀원들과 함께 ‘고려대학교 세종캠퍼스 재난알리미’라는 앱 구상도를 제출하였고 <strong>우수상</strong>을 받았습니다.</p>
-          </div>
-          <div class="col-span-1 mt-6">
-            <p class="text-sm font-large text-gray-500">2017-2학기</p>
-            <p class="font-bold">교내 코딩경진대회</p>
-            <p class="text-gray-600">컴퓨터융합소프트웨어학과</p>
-          </div>
-          <div class="col-span-4 mt-6">
-            <p><strong>금상 2회</strong></p>
-          </div>
+          <!-- <div class="col-span-4 mt-6">
+            <p><strong>우수상</strong></p>
+          </div> -->
         </div>
+
+        <div class="md:gap-6 mt-6 text-md text-gray-700">
+          <div class="col-span-1 mt-6">
+            <p class="text-sm font-large text-gray-500">2023.11.07</p>
+            <p class="font-bold">SW 페스티벌 AI 육목 경진대회 금상</p>
+            <p class="text-gray-600">SW중심대학사업단</p>
+          </div>
+          <!-- <div class="col-span-4 mt-6">
+            <p><strong>금상</strong></p>
+          </div> -->
+        </div>
+
+        <div class="md:gap-6 mt-6 text-md text-gray-700">
+          <div class="col-span-1 mt-6">
+            <p class="text-sm font-large text-gray-500">2023.11.07</p>
+            <p class="font-bold">SW 페스티벌 프로그래밍 경진대회 장려상</p>
+            <p class="text-gray-600">SW중심대학사업단</p>
+          </div>
+          <!-- <div class="col-span-4 mt-6">
+            <p><strong>장려상</strong></p>
+          </div> -->
+        </div>
+
+        <div class="md:gap-6 mt-6 text-md text-gray-700">
+          <div class="col-span-1 mt-6">
+            <p class="text-sm font-large text-gray-500">2023-1, 2023-2</p>
+            <p class="font-bold">성적 우수 장학금</p>
+          </div>
+          <!-- <div class="col-span-4 mt-6">
+            <p><strong>장려상</strong></p>
+          </div> -->
+        </div>
+
       </section>
 
       <!-- PROJECTS -->
