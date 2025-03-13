@@ -66,7 +66,10 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 <br/>
 
 ## 📊 Stats
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=choihjin&bg_color=60,a3e3ff,00d5ff&title_color=ffffff&text_color=ffffff" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choihjin&layout=compact&bg_color=60,a3e3ff,00d5ff&title_color=ffffff&text_color=ffffff" />
+    <a href="https://solved.ac/jjin6573">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjin6573" />
+    </a>
 </div>
+
