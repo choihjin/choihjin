@@ -9,11 +9,11 @@
             <span class="mr-2">👨🏻‍💻</span> ABOUT ME
           </h2>
           <p class="mt-4 text-md text-gray-700 leading-relaxed">
-            안녕하세요. NodeJS 백엔드 개발자 심다송입니다.<br>
+            안녕하세요. AI & 데이터 엔지니어 최혁진입니다.<br>
             대학교 1학년 1학기, 콘솔창에 "Hello World"를 출력하며 개발자로서의 첫 발자국을 내딛었습니다.<br>
             오로지 소비의 수단이었던 노트북을 생산의 수단으로서 활용하는 재미에 빠진지 어느덧 4년이 지났습니다.<br>
             아직 배울 것이 많지만, 그만큼 더 성장할 수 있음에 감사합니다.<br>
-            개발과 동료, 그리고 JS를 사랑합니다.
+            개발과 동료, 그리고 Python을 사랑합니다.
           </p>
         </div>
         <div class="w-1/2 pl-10">
@@ -21,11 +21,9 @@
             <span class="mr-2">📩</span> CONTACT
           </h2>
           <ul class="mt-3 text-md text-gray-700 leading-relaxed">
-            <li><strong class="text-custom-blue">Email:</strong> <a href="https://fb.com/10008001034636" class="underline">song58449@gmail.com</a></li>
-            <li><strong class="text-custom-blue">Facebook:</strong> <a href="https://fb.com/10008001034636" class="underline">fb.com/10008001034636</a></li>
-            <li><strong class="text-custom-blue">Github:</strong> <a href="https://github.com/SimDaSong" class="underline">github.com/SimDaSong</a></li>
-            <li><strong class="text-custom-blue">Velog:</strong> <a href="https://velog.io/@software" class="underline">velog.io/@software</a></li>
-            <li><strong class="text-custom-blue">RocketPunch:</strong> <a href="https://rocketpunch.com/@simdasong" class="underline">rocketpunch.com/@simdasong</a></li>
+            <li><strong class="text-custom-blue">Email:</strong> <a href="jjin6573@gmail.com" class="underline">jjin6573@gmail.com</a></li>
+            <li><strong class="text-custom-blue">Github:</strong> <a href="https://github.com/choihjin" class="underline">github.com/choihjin</a></li>
+            <li><strong class="text-custom-blue">Velog:</strong> <a href="https://velog.io/@choihjin" class="underline">velog.io/@choihjin</a></li>
           </ul>
         </div>
       </section>
@@ -35,13 +33,13 @@
         <p class="text-2xl font-bold text-default tracking-wide text-custom-blue">EDUCATION</p>
         <div class="md:grid md:grid-cols-5 md:gap-6 mt-2 text-md text-gray-700">
           <div>
-            <p class="text-sm font-large text-gray-500">2017.02 ~ 2021.08</p>
-            <p class="break-words font-bold sm:mt-0">고려대학교 세종캠퍼스</p>
+            <p class="text-sm font-large text-gray-500">2019.03 ~ 2025.02</p>
+            <p class="break-words font-bold sm:mt-0">한동대학교</p>
           </div>
           <div class="mt-4 md:mt-0 col-span-4">
             <ul>
-              <li>컴퓨터융합소프트웨어학과</li>
-              <li class="font-bold">4.13 / 4.5</li>
+              <li>AI 컴퓨터공학심화</li>
+              <li class="font-bold">4.04 / 4.5</li>
             </ul>
           </div>
         </div>
