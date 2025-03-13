@@ -57,9 +57,9 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 
 ## 🏅 Awards & Honors
 - **대경권 프로그래밍 경진대회 우수상** (2024)  
-- **2nd place, SW Festival AI Connect 6 Competition** (2023)  
-- **SW Festival Programming Competition Encouragement Award** (2023)  
-- **Academic Excellence Scholarship** (2023, 2022)  
+- **SW 페스티벌 AI 육목 경진대회 금상** (2023)  
+- **SW 페스티벌 프로그래밍 경진대회 장려상** (2023)  
+- **성적 우수 장학금** (2023, 2022)  
 
 <br/>
 
