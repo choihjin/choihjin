@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=a3aeff&height=120&text=Hi%20there!%20I'm%20Hyeokjin&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0033ff&height=100&text=Hi%20there!%20I'm%20Hyeokjin&fontColor=ffffff&fontSize=50&desc=AI%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=55&descSize=20" />
 </div>
 
 ## 안녕하세요 👋  
