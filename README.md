@@ -56,7 +56,7 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 <br/>
 
 ## 🏅 Awards & Honors
-- **Daegu-Gyeongbuk Programming Competition Excellence Award** (2024)  
+- **대경권 프로그래밍 경진대회 우수상** (2024)  
 - **2nd place, SW Festival AI Connect 6 Competition** (2023)  
 - **SW Festival Programming Competition Encouragement Award** (2023)  
 - **Academic Excellence Scholarship** (2023, 2022)  
