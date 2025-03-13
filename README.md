@@ -9,6 +9,16 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 
 <br/>
 
+## 📊 Stats
+<div>
+    <a href="https://solved.ac/profile/jjin6573">
+        <img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjin6573" />
+    </a>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=choihjin&bg_color=60,a3e3ff,00d5ff&title_color=ffffff&text_color=ffffff" />
+</div>
+
+</br>
+
 ## 🛠 Tech Stacks
 **Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -62,13 +72,3 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 ## 🧑‍💻 Contact Me  
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@choihjin)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21900772@handong.ac.kr)
-
-<br/>
-
-## 📊 Stats
-<div>
-    <a href="https://solved.ac/profile/jjin6573">
-        <img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjin6573" />
-    </a>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=choihjin&bg_color=60,a3e3ff,00d5ff&title_color=ffffff&text_color=ffffff" />
-</div>
