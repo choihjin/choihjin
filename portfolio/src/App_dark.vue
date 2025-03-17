@@ -1,39 +1,39 @@
 <template>
-  <div class="min-h-screen bg-white text-gray-900 px-10 mt-8 mb-16 max-w-7xl py-8 lg:px-16 mx-auto">
+  <div class="min-h-screen bg-[#1E1E1E] text-white px-10 mt-8 mb-16 max-w-7xl py-8 lg:px-16 mx-auto">
     
     <div class="grid grid-cols-1 gap-y-4">
       <!-- ABOUT ME & CONTACT -->
-      <section id="about" class="flex justify-between items-start pb-6 border-b border-gray-300">
+      <section id="about" class="flex justify-between items-start pb-6 border-b border-gray-600">
         <div class="w-1/2 pr-10">
-          <h2 class="text-2xl font-bold text-left text-[rgba(84,119,173)] flex items-center">
+          <h2 class="text-2xl font-bold text-left text-gray-100 flex items-center">
             <span class="mr-2">👨🏻‍💻</span> ABOUT ME
           </h2>
-          <p class="mt-4 text-md text-gray-700 leading-relaxed">
+          <p class="mt-4 text-md leading-relaxed">
             안녕하세요. 끊임없이 성장하는 개발자입니다.<br>
             Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,<br>
             다양한 산업-학술 협업 프로젝트를 진행하며 경험을 쌓아왔습니다.
           </p>
         </div>
         <div class="w-1/2 pl-10">
-          <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
+          <h2 class="text-2xl font-bold text-left text-gray-100 flex items-center">
             <span class="mr-2">📩</span> CONTACT
           </h2>
-          <ul class="mt-3 text-md text-gray-700 leading-relaxed">
-            <li><strong class="text-custom-blue">Email:</strong> <a href="jjin6573@gmail.com" class="underline">jjin6573@gmail.com</a></li>
-            <li><strong class="text-custom-blue">Github:</strong> <a href="https://github.com/choihjin" class="underline">github.com/choihjin</a></li>
-            <li><strong class="text-custom-blue">Velog:</strong> <a href="https://velog.io/@choihjin" class="underline">velog.io/@choihjin</a></li>
+          <ul class="mt-3 text-md leading-relaxed">
+            <li><strong class="text-white">Email:</strong> <a href="jjin6573@gmail.com" class="underline">jjin6573@gmail.com</a></li>
+            <li><strong class="text-white">Github:</strong> <a href="https://github.com/choihjin" class="underline">github.com/choihjin</a></li>
+            <li><strong class="text-white">Velog:</strong> <a href="https://velog.io/@choihjin" class="underline">velog.io/@choihjin</a></li>
           </ul>
         </div>
       </section>
       
       <!-- EDUCATION -->
-      <section id="education" class="py-5 border-b border-gray-200">
-        <h2 class="text-2xl font-bold text-left text-[rgba(84,119,173)] flex items-center">
+      <section id="education" class="py-5 border-b border-gray-600">
+        <h2 class="text-2xl font-bold text-left text-gray-100 flex items-center">
             <span class="mr-2">🎓</span> EDUCATION
           </h2>
-        <div class="md:grid md:grid-cols-5 md:gap-6 mt-2 text-md text-gray-700">
+        <div class="md:grid md:grid-cols-5 md:gap-6 mt-2 text-md">
           <div>
-            <p class="text-sm font-large text-gray-500">2019.03 ~ 2025.02</p>
+            <p class="text-sm font-large text-gray-400">2019.03 ~ 2025.02</p>
             <p class="break-words font-bold sm:mt-0">한동대학교</p>
           </div>
           <div class="mt-4 md:mt-0 col-span-4">
@@ -45,10 +45,10 @@
           </div>
         </div>
       </section>
-      
+
       <!-- SKILLS -->
-      <section id="skills" class="py-8 border-b border-gray-300">
-        <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
+      <section id="skills" class="py-8 border-b border-gray-600">
+        <h2 class="text-2xl font-bold text-left text-gray-100 flex items-center">
           <span class="mr-2">🛠</span> SKILLS
         </h2>
 
@@ -56,10 +56,10 @@
           <template v-for="(skill, index) in skills" :key="index">
             <!-- 왼쪽 카테고리 -->
             <div>
-              <p class="text-m font-large text-gray-500 font-bold">{{ skill.category }}</p>
+              <p class="text-m font-large text-gray-300 font-bold">{{ skill.category }}</p>
             </div>
             <!-- 오른쪽 스킬 리스트 -->
-            <div class="col-span-3">
+            <div class="col-span-3 text-white">
               <ul class="list-disc">
                 <li v-for="(item, idx) in skill.items" :key="idx">{{ item }}</li>
               </ul>
@@ -68,65 +68,30 @@
         </div>
       </section>
 
-      <!-- CAREER -->
-      <!-- <section id="career" class="py-8 border-b border-gray-300">
-        <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
-          <span class="mr-2">💼</span> CAREER
-        </h2>
-        <div class="md:grid md:grid-cols-5 md:gap-6 mt-6 text-md text-gray-700">
-          <div>
-            <p class="text-sm font-large text-gray-500">2023.06 ~ 2024.12</p>
-            <p class="break-words font-bold sm:mt-0">HGU DeepLearning Lab</p>
-            <p class="text-gray-600">학부연구생</p>
-          </div>
-          <div class="mt-4 md:mt-0 col-span-4">
-            <p>새벽 꽃 시장 유통업체인 오늘의꽃에서 클라이언트/판매자/관리자/물류관리자 페이지 기능 추가 및 유지 보수를 담당했습니다.<br>
-              Python, PyTotch, TensorFlow, OpenCV, Numpy, Linux, Git, Github</p>
-            <p class="mt-4 font-bold">기능 추가</p>
-            <ul class="list-disc pl-6">
-              <li>포인트 기능 구현</li>
-              <li>Iamport 간편 결제 기능 구현</li>
-              <li>쿠폰 기능 구현</li>
-              <li>회원 등급제 기능 구현</li>
-              <li>메인 페이지를 관리자가 수정할 수 있게 하는 기능 추가</li>
-              <li>그 외 기능 추가 요구사항 구현</li>
-            </ul>
-            <p class="mt-4 font-bold">유지 보수</p>
-            <ul class="list-disc pl-6">
-              <li>DB 내 불명확한 column 수정 및 data cleansing</li>
-              <li>slow query 개선</li>
-              <li>API 응답 속도 개선</li>
-              <li>레거시 코드 리팩토링</li>
-              <li>모니터링 환경 구축</li>
-            </ul>
-          </div>
-        </div>
-      </section> -->
-
       <!-- AWARDS -->
-      <section id="awards" class="py-8 border-b border-gray-300">
-        <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
+      <section id="awards" class="py-8 border-b border-gray-600">
+        <h2 class="text-2xl font-bold text-left text-gray-100 flex items-center">
           <span class="mr-2">🏆</span> AWARDS & HONORS
         </h2>
-        <div v-for="award in awards" :key="award.title" class="md:gap-6 mt-6 text-md text-gray-700">
+
+        <div v-for="award in awards" :key="award.title" class="md:gap-6 mt-6 text-md text-white">
           <div class="col-span-1 mt-6">
-            <p class="text-sm font-large text-gray-500">{{ award.date }}</p>
+            <p class="text-sm font-large text-gray-400">{{ award.date }}</p>
             <p class="font-bold">{{ award.title }}</p>
-            <p class="text-gray-500">{{ award.organizer }}</p>
+            <p class="text-gray-400">{{ award.organizer }}</p>
           </div>
         </div>
-
       </section>
 
       <!-- PROJECTS -->
       <section id="projects" class="py-8 border-b border-gray-300">
-        <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
+        <h2 class="text-2xl font-bold text-left text-gray flex items-center">
           <span class="mr-2">📁</span> PROJECT
         </h2>
 
         <!-- 팀 프로젝트 -->
         <div class="mt-6">
-          <h3 class="text-xl font-bold text-custom-blue">팀 프로젝트</h3>
+          <h3 class="text-xl font-bold text-gray-300">팀 프로젝트</h3>
           <div class="grid grid-cols-3 gap-6 mt-4">
             <div v-for="project in teamProjects" :key="project.name" class="border rounded-lg p-4 shadow-sm hover:shadow-lg">
               <a :href="project.link" target="_blank" class="block">
@@ -134,7 +99,7 @@
                 <h4 class="text-lg font-bold">{{ project.name }}</h4>
                 <p class="text-sm text-gray-500">{{ project.date }}</p>
                 <div class="flex flex-wrap mt-2">
-                  <span v-for="tag in project.tags" :key="tag" class="px-2 py-1 text-xs bg-blue-100 text-blue-700 rounded-md mr-1 mb-1">
+                  <span v-for="tag in project.tags" :key="tag" class="px-2 py-1 text-xs bg-blue-500 text-black rounded-md mr-1 mb-1">
                     {{ tag }}
                   </span>
                 </div>
@@ -145,7 +110,7 @@
 
         <!-- 개인 프로젝트 -->
         <div class="mt-10">
-          <h3 class="text-xl font-bold text-custom-blue">개인 프로젝트</h3>
+          <h3 class="text-xl font-bold text-gray-300">개인 프로젝트</h3>
           <div class="grid grid-cols-3 gap-6 mt-4">
             <div v-for="project in personalProjects" :key="project.name" class="border rounded-lg p-4 shadow-sm hover:shadow-lg">
               <a :href="project.link" target="_blank" class="block">
@@ -165,36 +130,36 @@
 
       <!-- OTHERS -->
       <section id="others" class="py-8 border-b border-gray-300">
-        <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
+        <h2 class="text-2xl font-bold text-left text-gray flex items-center">
           <span class="mr-2">👀</span> OTHERS
         </h2>
 
         <!-- 대외활동 -->
         <div class="mt-10">
-          <h3 class="text-xl font-bold text-custom-blue">대외활동</h3>
+          <h3 class="text-xl font-bold text-gray-300">대외활동</h3>
           <div v-for="activity in externalActivities" :key="activity.title" class="md:grid md:grid-cols-5 md:gap-6 mt-4 text-md text-gray-700 border-b border-gray-200 pb-4">
             <div class="col-span-1">
-              <p class="text-sm font-large text-gray-500">{{ activity.date }}</p>
-              <p class="font-bold">{{ activity.title }}</p>
-              <p class="text-sm font-large text-gray-500">{{ activity.role }}</p>
+              <p class="text-sm font-large text-gray-300">{{ activity.date }}</p>
+              <p class="font-bold text-gray-100">{{ activity.title }}</p>
+              <p class="text-sm font-large text-gray-300">{{ activity.role }}</p>
             </div>
             <div class="col-span-4">
-              <p class="text-gray-600">{{ activity.description }}</p>
+              <p class="text-gray-200">{{ activity.description }}</p>
             </div>
           </div>
         </div>
 
         <!-- 교내활동 -->
         <div class="mt-10">
-          <h3 class="text-xl font-bold text-custom-blue">교내활동</h3>
+          <h3 class="text-xl font-bold text-gray-300">교내활동</h3>
           <div v-for="activity in internalActivities" :key="activity.title" class="md:grid md:grid-cols-5 md:gap-6 mt-4 text-md text-gray-700 border-b border-gray-200 pb-4">
             <div class="col-span-1">
-              <p class="text-sm font-large text-gray-500">{{ activity.date }}</p>
-              <p class="font-bold">{{ activity.title }}</p>
-              <p class="text-sm font-large text-gray-500">{{ activity.role }}</p>
+              <p class="text-sm font-large text-gray-300">{{ activity.date }}</p>
+              <p class="font-bold text-gray-100">{{ activity.title }}</p>
+              <p class="text-sm font-large text-gray-300">{{ activity.role }}</p>
             </div>
             <div class="col-span-4">
-              <p class="text-gray-600">{{ activity.description }}</p>
+              <p class="text-gray-200">{{ activity.description }}</p>
             </div>
           </div>
         </div>
@@ -351,5 +316,12 @@ html {
 /* Tailwind 기본 blue 대신 rgba(84, 119, 173, 1) 적용 */
 .text-custom-blue {
   color: rgba(84, 119, 173, 1);
+}
+</style>
+
+<style>
+html {
+  scroll-behavior: smooth;
+  background-color:#1E1E1E;
 }
 </style>
