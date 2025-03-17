@@ -106,7 +106,7 @@
 
 
       <!-- CAREER -->
-      <section id="career" class="py-8 border-b border-gray-300">
+      <!-- <section id="career" class="py-8 border-b border-gray-300">
         <h2 class="text-2xl font-bold text-left text-custom-blue flex items-center">
           <span class="mr-2">💼</span> CAREER
         </h2>
@@ -138,7 +138,7 @@
             </ul>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- AWARDS -->
       <section id="awards" class="py-8 border-b border-gray-300">
@@ -280,23 +280,30 @@
 <script setup>
 const teamProjects = [
   {
-    name: "Express boilerplate",
-    date: "2021-ing",
-    tags: ["Express", "Typescript", "Amazon S3", "Mongoose"],
+    name: "딥러닝 기반 도로영상 복원기술 개발",
+    date: "2023.06~2024.12",
+    tags: ["Python", "PyTorch", "TensorFlow", "OpenCV"],
     image: "https://via.placeholder.com/300",
     link: "https://github.com/yourgithub/express-boilerplate",
   },
   {
-    name: "Moment",
-    date: "2021.09~2021.11",
-    tags: ["Express", "Typescript", "Amazon LightSail", "Mongoose"],
+    name: "도로 이미지 익명화 프로세스 개발",
+    date: "2023.06~2023.12",
+    tags: ["Python", "PyTorch", "TensorFlow", "OpenCV"],
     image: "https://via.placeholder.com/300",
     link: "https://github.com/yourgithub/moment",
   },
   {
-    name: "헬로 미러",
-    date: "2018.03~2018.08",
-    tags: ["Python", "PyQt5", "Raspberry Pi", "Arduino Uno"],
+    name: "뿌리 이미지 인식 AI 개발",
+    date: "2023.02~2023.06",
+    tags: ["Python", "CNN", "OpenCV"],
+    image: "https://via.placeholder.com/300",
+    link: "https://github.com/yourgithub/hello-mirror",
+  },
+  {
+    name: "스마트 스위치 구현",
+    date: "2024.05~2024.06",
+    tags: ["Python", "CNN", "OpenCV"],
     image: "https://via.placeholder.com/300",
     link: "https://github.com/yourgithub/hello-mirror",
   },
@@ -305,94 +312,65 @@ const teamProjects = [
 const personalProjects = [
   {
     name: "포트폴리오",
-    date: "2020.01-ing",
-    tags: ["Next.js", "Typescript", "Tailwind CSS", "Vercel"],
+    date: "2025.03~Present",
+    tags: ["Vue.js", "Tailwind CSS"],
     image: "https://via.placeholder.com/300",
     link: "https://github.com/yourgithub/portfolio",
   },
   {
-    name: "장바구니",
-    date: "2020.01",
-    tags: ["styled-components", "Vercel"],
+    name: "차량 기능 구현",
+    date: "2022.10~2022.12",
+    tags: ["C++", "OpenCV", "YOLO"],
     image: "https://via.placeholder.com/300",
-    link: "https://github.com/yourgithub/shopping-cart",
-  },
-  {
-    name: "4-bit CPU",
-    date: "2019.11",
-    tags: ["logisim", "verilog"],
-    image: "https://via.placeholder.com/300",
-    link: "https://github.com/yourgithub/4bit-cpu",
-  },
-  {
-    name: "자판기",
-    date: "2019.10",
-    tags: ["logisim"],
-    image: "https://via.placeholder.com/300",
-    link: "https://github.com/yourgithub/vending-machine",
-  },
-  {
-    name: "Simple Resource Monitor",
-    date: "2018.05",
-    tags: ["C++"],
-    image: "https://via.placeholder.com/300",
-    link: "https://github.com/yourgithub/simple-resource-monitor",
-  },
-  {
-    name: "Process Tree",
-    date: "2018.04",
-    tags: ["C++"],
-    image: "https://via.placeholder.com/300",
-    link: "https://github.com/yourgithub/process-tree",
-  },
-  {
-    name: "CLI",
-    date: "2018.03",
-    tags: ["C++"],
-    image: "https://via.placeholder.com/300",
-    link: "https://github.com/yourgithub/cli",
+    link: "https://github.com/yourgithub/portfolio",
   },
 ];
 
 const externalActivities = [
   {
-    date: "2018.03 ~ 2018.08",
-    title: "멋쟁이 사자처럼 6기",
-    role: "운영진",
-    description: "간단한 웹개발과 IT 교육을 위한 비영리 단체에서 대학생들에게 무료로 가르쳤고, 6개월간 활동하며 ‘Ruby on Rails’를 활용한 웹 개발 프로젝트를 진행하였습니다.",
+    date: "2023.06 ~ 2024.12",
+    title: "GHOST(Global Handong Oriented Security Team)",
+    role: "동아리원",
+    description: "보안 및 알고리즘 스터디를 진행하였습니다.",
   },
 ];
 
 const internalActivities = [
   {
-    date: "2019-1학기 ~ 2019-2학기",
-    title: "Programming Language Center 연구",
-    role: "근로장학생",
-    description: "학내 20여 명의 코드 테스트를 보고 실력 향상에 기여하는 곳에서 근무하며 연구 및 코딩 교육을 진행하였습니다.",
+    date: "2023.06 ~ 2024-12",
+    title: "Deep Learning 연구",
+    role: "학부연구생",
+    description: "Deep Learning 연구실에서 산학 연구를 진행하였습니다.",
   },
   {
-    date: "2019-1학기",
-    title: "Java 스터디",
-    role: "팀장",
-    description: "7명의 학생들과 함께 Java 스터디를 진행하였으며, 매주 문제를 풀고 코드 리뷰를 진행하는 방식으로 운영하였습니다.",
+    date: "2023-1",
+    title: "Data Structure",
+    role: "TA",
+    description: "자료구조 수업을 수강하는 학생들을 대상으로 수업 내용을 이해하도록 도와주는 TA 역할을 수행하였습니다.",
   },
   {
-    date: "2018-2학기",
-    title: "컴퓨터융합실험실",
+    date: "2023-2, 2024-2",
+    title: "Computer Architecture",
+    role: "TA",
+    description: "컴퓨터 구조 수업을 수강하는 학생들을 대상으로 수업 내용을 이해하도록 도와주는 TA 역할을 수행하였습니다.",
+  },
+  {
+    date: "2024-1",
+    title: "Algorithm Analysis",
+    role: "TA",
+    description: "알고리즘 분석 수업을 수강하는 학생들을 대상으로 수업 내용을 이해하도록 도와주는 TA 역할을 수행하였습니다.",
+  },
+  {
+    date: "2022-2, 2023-Summer",
+    title: "SW 교육봉사단",
     role: "교육멘토",
-    description: "고학년을 대상으로 Scratch 수업을 진행하며 실습과 프로젝트 지도를 맡았습니다.",
+    description: "경주고등학교, 포항대동고등학교에 방문하여 SW(Arduino, C++) 교육을 진행하였습니다.",
   },
   {
-    date: "2018-2학기",
-    title: "컴퓨터이론(C++) 수업 튜터링",
+    date: "2022-1",
+    title: "Calculus 튜터링",
     role: "튜터",
-    description: "C++ 수업의 학생들을 대상으로 기초 개념을 잡고 심화 내용을 다루는 멘토링을 진행하였습니다.",
-  },
-  {
-    date: "2018-1학기",
-    title: "컴퓨터이론(C) 수업 튜터링",
-    role: "튜터",
-    description: "C 프로그래밍 기초 개념을 중심으로 학생들에게 멘토링을 진행하였습니다.",
+    description: "미적분학 수업을 수강하는 학생들을 대상으로 수업 내용을 이해하도록 도와주는 튜터 역할을 수행하였습니다.",
   },
 ];
 </script>
