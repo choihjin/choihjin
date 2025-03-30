@@ -38,7 +38,7 @@ Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,
 <br/>
 
 ## 📌 Project & Research
-### 🚗 Deep Learning 기반 차량 영상 복원 기술 개발 (2023 ~ 현재)
+### 🚗 Deep Learning 기반 차량 영상 복원 기술 개발 (2023 ~ 2024)
 - **프로젝트:** Industry-Academic Capstone Project with NC & Company  
 - 차량 블랙박스 영상에서 **멀티프레임 초해상화 기술**을 적용하여 번호판 인식률 개선
 
