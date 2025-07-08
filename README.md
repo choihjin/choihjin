@@ -45,12 +45,7 @@
 ---
 
 ### Data Engineering<br/>
-<img src="icons/kafka.png" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
-<img src="icons/hadoop.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/>
-<img src="icons/flink.png" width="40" height="40"/>
-<img src="icons/spark.svg" width="40" height="40"/>
+<img src="icons/kafka.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/><img src="icons/hadoop.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/><img src="icons/flink.png" width="40" height="40"/><img src="icons/spark.svg" width="40" height="40"/>
 
 - 대규모 데이터 처리 및 분석, 실시간 데이터 스트리밍 처리
 - 데이터 파이프라인 자동화, 분산 시스템 구축 및 운영, 검색 엔진 구축 및 최적화
