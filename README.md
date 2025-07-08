@@ -1,78 +1,135 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&text=AI%20Developer%20%7C%20Deep%20Learning%20Researcher&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=120&text=MLOps%20Engineer&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 
-## 안녕하세요 👋  
-저는 **끊임없이 성장하는 개발자**입니다.  
-Deep Learning 연구와 AI 기반 프로젝트 개발에 관심이 많으며,  
-다양한 산업-학술 협업 프로젝트를 진행하며 경험을 쌓아왔습니다.
+# 안녕하세요. AI와 데이터 엔지니어링에 열정을 가진 개발자입니다.
+머신러닝 모델 개발과 대규모 데이터 처리 시스템 구축에 전문성을 가지고 있습니다.
 
-</br>
+---
 
-## 🛠 Tech Stacks
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+## 🎓 Education
+- **2025.01 ~ 현재**  삼성 청년 SW 아카데미 13th (Data Track)
+- **2019.03 ~ 2025.02**  한동대학교 AI 컴퓨터공학심화
+  - 학점: 4.01 / 4.5 (전체), 4.27 / 4.5 (전공)
 
-**AI & Data Analysis**  
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=Matplotlib&logoColor=white)
+---
 
-**Databases & Backend**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+## 🏆 Awards
+- **2025.05.29**  1학기 프로젝트우수상 (삼성전자)
+- **2024.05.11**  대경권 프로그래밍 경진대회 우수상 (대구 경북 소재 SW중심대학사업단)
+- **2023.11.07**  SW 페스티벌 AI 육목 경진대회 금상 (SW중심대학사업단)
+- **2023.11.07**  SW 페스티벌 프로그래밍 경진대회 장려상 (SW중심대학사업단)
+- **2023-1, 2**  성적 우수 장학금
 
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+---
 
-<br/>
+## 📄 Certificates
+- **2025.07.11**  빅데이터분석기사 (한국데이터산업진흥원)
+- **2025.06.13**  정보처리기사 (한국산업인력공단)
+- **2025.06.13**  ADsP (한국데이터산업진흥원)
+- **2025.04.04**  SQLD (한국데이터산업진흥원)
 
-## 📌 Project & Research
-### 🚗 Deep Learning 기반 차량 영상 복원 기술 개발 (2023 ~ 2024)
-- **프로젝트:** Industry-Academic Capstone Project with NC & Company  
-- 차량 블랙박스 영상에서 **멀티프레임 초해상화 기술**을 적용하여 번호판 인식률 개선
+---
 
-### 🔒 Deep Learning 기반 차량 영상 개인정보 보호 (2023)
-- 블랙박스 영상에서 **번호판 및 사람 얼굴 자동 식별 & 블러링 처리**
-- **Privacy 보호를 위한 AI 모델 개발**  
+## 💻 Tech Stacks
 
-### 🌱 Root Image Recognition AI (2023)
-- **AI를 활용한 식물 성장 예측** 프로젝트  
-- OpenCV & 딥러닝 모델을 활용하여 뿌리 성장 패턴 분석  
+### MLOps<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="icons/mlflow.svg" width="40" height="40"/>
+<img src="icons/huggingface.svg" width="40" height="40"/>
 
-### 🚘 OpenCV 기반 차량 영상 인식 기능 개발 (2022)
-- 차량 영상에서 **차선 이탈 감지, 출발 알림, 주변 차량 및 보행자 감지** 기능 구현  
+- 머신러닝 모델 개발 및 학습, 모델 버전 관리 및 실험 추적
+- 사전 학습된 모델 활용 및 파인튜닝, 모델 성능 모니터링 및 최적화
 
-<br/>
+---
 
-## 🏅 Awards & Honors
-- **대경권 프로그래밍 경진대회 우수상** (2024)  
-- **SW 페스티벌 AI 육목 경진대회 금상** (2023)  
-- **SW 페스티벌 프로그래밍 경진대회 장려상** (2023)  
-- **성적 우수 장학금** (2023, 2022)  
+### Data Engineering<br/>
+<img src="icons/kafka.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
+<img src="icons/hadoop.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40"/>
+<img src="icons/flink.png" width="40" height="40"/>
+<img src="icons/spark.svg" width="40" height="40"/>
 
-<br/>
+- 대규모 데이터 처리 및 분석, 실시간 데이터 스트리밍 처리
+- 데이터 파이프라인 자동화, 분산 시스템 구축 및 운영, 검색 엔진 구축 및 최적화
 
-## 📊 Algorithm
-- 2025.03.04 삼성 SW역량테스트 Level A - 삼성전자
-<div>
-    <a href="https://solved.ac/profile/jjin6573">
-        <img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjin6573" />
-    </a>
-</div>
+---
 
-<br/>
+### Backend & Database<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-## 🧑‍💻 Contact Me  
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@choihjin)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:21900772@handong.ac.kr)
+- RESTful API 개발, 데이터베이스 설계 및 최적화
+- 비동기 처리 및 성능 최적화, 보안 및 인증 시스템 구현
+
+---
+
+### DevOps<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+
+- 컨테이너화 및 배포 자동화, 버전 관리 및 협업
+- CI/CD 파이프라인 구축, 인프라 관리 및 모니터링
+
+---
+
+## 🗂 Project & Research
+### SSAFIT NEWS (2025.01 ~ 2025.05)
+실시간 뉴스 데이터를 수집하고, 텍스트 임베딩 기반으로 유사 뉴스 추천 및 인사이트 분석이 가능한 플랫폼 구축  
+[🔗 Portfolio Page](https://38afolio.vercel.app/projects/ssafit-news)  [🔗 Github Repository](https://github.com/choihjin/news-data-project)
+
+---
+
+### MF-LPR2 (2023.06 ~ 2024.12)
+블랙박스 영상에서 흐릿한 자동차 번호판을 고화질로 복원하는 딥러닝 기반 화질 개선 시스템  
+[🔗 Portfolio Page](https://38afolio.vercel.app/projects/lpr2)  [🔗 Github Repository](https://github.com/choihjin/LPR2)
+
+---
+
+### Road Image De-identification (2023.06 ~ 2023.12)
+이미지 및 영상 내 번호판과 얼굴 정보를 자동으로 비식별화하는 딥러닝 기반 시스템  
+[🔗 Portfolio Page](https://38afolio.vercel.app/projects/deid)  [🔗 Github Repository](https://github.com/choihjin/De-identification)
+
+---
+
+### Root Image Recognition (2023.02 ~ 2023.06)
+식물의 촬영 이미지를 분석하여, 생장이 시작된 후 12시간 단위로 시간이 얼마나 흘렀는지 분류하는 인공지능 모델  
+[🔗 Portfolio Page](https://38afolio.vercel.app/projects/root)  [🔗 Github Repository](https://github.com/choihjin/RootRecognition)
+
+---
+
+### Vehicle Features (2022.10 ~ 2022.12)
+OpenCV와 YOLO를 활용한 차량 주행 보조 기능 구현 프로젝트 (차선 이탈 감지, 전방 차량 출발 감지, 보행자 및 차량 근접 감지)  
+[🔗 Portfolio Page](https://38afolio.vercel.app/projects/vehicle-features)  [🔗 Github Repository](https://github.com/choihjin/VehicleFeatures)
+
+---
+
+### Portfolio (2025.03 ~ 현재)
+개인 포트폴리오 웹사이트  
+[🔗 Portfolio Page](https://38afolio.vercel.app)  [🔗 Github Repository](https://github.com/choihjin/portfolio)
+
+---
+
+## 🏃‍♂️ 활동
+- **2023 ~ 2024**  학부연구생 (HGU Deep Learning Lab)
+- **2023.06 ~ 2024.12**  동아리원 (GHOST: Global Handong Oriented Security Team)
+- **2022, 2023**  교육멘토 (SW 교육봉사단, 경주고/포항대동고 SW 교육)
+- **2023 ~ 2024**  TA (자료구조, 컴퓨터 구조, 알고리즘 분석 수업)
+- **2022-1**  튜터 (미적분학 튜터링)
+
+---
+
+## 📫 Contact
+[![Email](https://img.shields.io/badge/Email-jjin6573@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjin6573@gmail.com)&nbsp;
+[![Tech Blog](https://img.shields.io/badge/Velog-Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@choihjin)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-38afolio.vercel.app-000000?style=for-the-badge&logo=vercel)](https://38afolio.vercel.app)
+
+---
+
+© 2025 38Afolio
