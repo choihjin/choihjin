@@ -66,39 +66,33 @@
 ---
 
 ## 🗂 Project & Research
-### SSAFIT NEWS (2025.01 ~ 2025.05)
+### SSAFIT NEWS (2025.01 ~ 2025.05) [🔗 Portfolio Page](https://38afolio.vercel.app/projects/ssafit-news)  [🔗 Github Repository](https://github.com/choihjin/news-data-project)
 실시간 뉴스 데이터를 수집하고, 텍스트 임베딩 기반으로 유사 뉴스 추천 및 인사이트 분석이 가능한 플랫폼 구축  
-[🔗 Portfolio Page](https://38afolio.vercel.app/projects/ssafit-news)  [🔗 Github Repository](https://github.com/choihjin/news-data-project)
 
 ---
 
-### MF-LPR2 (2023.06 ~ 2024.12)
+### MF-LPR2 (2023.06 ~ 2024.12) [🔗 Portfolio Page](https://38afolio.vercel.app/projects/lpr2)  [🔗 Github Repository](https://github.com/choihjin/LPR2)
 블랙박스 영상에서 흐릿한 자동차 번호판을 고화질로 복원하는 딥러닝 기반 화질 개선 시스템  
-[🔗 Portfolio Page](https://38afolio.vercel.app/projects/lpr2)  [🔗 Github Repository](https://github.com/choihjin/LPR2)
 
 ---
 
-### Road Image De-identification (2023.06 ~ 2023.12)
+### Road Image De-identification (2023.06 ~ 2023.12) [🔗 Portfolio Page](https://38afolio.vercel.app/projects/deid)  [🔗 Github Repository](https://github.com/choihjin/De-identification)
 이미지 및 영상 내 번호판과 얼굴 정보를 자동으로 비식별화하는 딥러닝 기반 시스템  
-[🔗 Portfolio Page](https://38afolio.vercel.app/projects/deid)  [🔗 Github Repository](https://github.com/choihjin/De-identification)
 
 ---
 
-### Root Image Recognition (2023.02 ~ 2023.06)
+### Root Image Recognition (2023.02 ~ 2023.06) [🔗 Portfolio Page](https://38afolio.vercel.app/projects/root)  [🔗 Github Repository](https://github.com/choihjin/RootRecognition)
 식물의 촬영 이미지를 분석하여, 생장이 시작된 후 12시간 단위로 시간이 얼마나 흘렀는지 분류하는 인공지능 모델  
-[🔗 Portfolio Page](https://38afolio.vercel.app/projects/root)  [🔗 Github Repository](https://github.com/choihjin/RootRecognition)
 
 ---
 
-### Vehicle Features (2022.10 ~ 2022.12)
+### Vehicle Features (2022.10 ~ 2022.12) [🔗 Portfolio Page](https://38afolio.vercel.app/projects/vehicle-features)  [🔗 Github Repository](https://github.com/choihjin/VehicleFeatures)
 OpenCV와 YOLO를 활용한 차량 주행 보조 기능 구현 프로젝트 (차선 이탈 감지, 전방 차량 출발 감지, 보행자 및 차량 근접 감지)  
-[🔗 Portfolio Page](https://38afolio.vercel.app/projects/vehicle-features)  [🔗 Github Repository](https://github.com/choihjin/VehicleFeatures)
 
 ---
 
-### Portfolio (2025.03 ~ 현재)
+### Portfolio (2025.03 ~ 현재) [🔗 Portfolio Page](https://38afolio.vercel.app)  [🔗 Github Repository](https://github.com/choihjin/portfolio)
 개인 포트폴리오 웹사이트  
-[🔗 Portfolio Page](https://38afolio.vercel.app)  [🔗 Github Repository](https://github.com/choihjin/portfolio)
 
 ---
 
