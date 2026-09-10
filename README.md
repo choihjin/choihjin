@@ -1,44 +1,52 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Hyeokjin Choi — AI / Data Engineer · solved.ac Platinum V" src="assets/banner-light.svg" width="100%">
-</picture>
+# 포트폴리오 웹사이트
 
-Agent 시스템, 검색/RAG, 데이터 파이프라인, LLM 서빙을 운영 가능한 시스템으로 만듭니다.
-노트로 학습하고, 프로젝트로 검증하고, 글로 정리합니다.
+## 주요 기능
+- 반응형 웹 디자인
+- 다크 모드 지원
+- 기술 스택 및 프로젝트 소개
+- 교육 및 경력 사항 표시
+- 소셜 미디어 링크 통합
 
-**Portfolio → [0x38a.dev](https://0x38a.dev)**
+## 기술 스택
+- **프론트엔드**: 
+  - Next.js
+  - TypeScript
+  - Tailwind CSS
+- **개발 도구**:
+  - pnpm (패키지 매니저)
+  - Git (버전 관리)
+- **배포**:
+  - Vercel
 
-- AI/Data Engineer (2025.09 – )
-- Samsung SW Academy For Youth 13th, Data Track (2025, 1·2학기 프로젝트 우수상 · 수여기관 삼성전자)
-- 한동대학교 AI Computer Science & Engineering (GPA 4.01 / 4.5)
+## 프로젝트 구조
+```
+portfolio/
+├── app/                    # Next.js 앱 디렉토리
+│   ├── components/        # 재사용 가능한 컴포넌트
+│   ├── config.ts         # 설정 파일
+│   └── page.tsx          # 메인 페이지
+├── public/               # 정적 파일
+├── styles/              # 전역 스타일
+└── package.json         # 프로젝트 의존성
+```
 
-## Projects
+## 설치 및 실행
+1. 저장소 클론
+```bash
+git clone [repository-url]
+```
 
-지식 그래프 · Multi-Agent RAG · 선제적 에이전트 등 실무 프로젝트 케이스 스터디는
-**[0x38a.dev/projects](https://0x38a.dev/projects)** 에 정리되어 있습니다.
+2. 의존성 설치
+```bash
+pnpm install
+```
 
-## Open Source
+3. 개발 서버 실행
+```bash
+pnpm dev
+```
 
-- **[Orca](https://github.com/stablyai/orca)** — 병렬 에이전트 ADE.
-  [머지 PR 3건](https://github.com/stablyai/orca/pulls?q=is%3Apr+author%3Achoihjin+is%3Amerged) —
-  브라우저 리다이렉트 취소 버그(+569/−50), Claude 세션 복원, 에이전트 상태 귀속
-- **[VoiceKit](https://huggingface.co/spaces/MCP-1st-Birthday/voicekit)** —
-  HuggingFace MCP 1st Birthday 해커톤 · MCP 도구 6종 구현 (❤️53)
-
-## Research & Honors
-
-- 학술논문 2편 — 대한전자공학회 학술대회 (2026) · 한국인공지능 학술대회 (2025)
-- 특허 출원 2건 (2025)
-- SSAFY 프로젝트 우수상 ×2 (수여기관 삼성전자)
-- 대경권 프로그래밍 경진대회 우수상 (2024)
-- 빅데이터분석기사 · 정보처리기사 · ADsP · SQLD
-
-## Stack
-
-- **AI / LLM** — Agno · vLLM · SGLang · Neo4j · pgvector
-- **Data** — Kafka · Flink · Spark · Airflow · Elasticsearch
-- **Backend** — FastAPI · PostgreSQL · Docker · Next.js
-
-## Contact
-
-[0x38a.dev](https://0x38a.dev) · [jjin6573@naver.com](mailto:jjin6573@naver.com) · [solved.ac](https://solved.ac/profile/jjin6573) · [LinkedIn](https://www.linkedin.com/in/%ED%98%81%EC%A7%84-%EC%B5%9C-772649364/)
+## 참고 문헌
+1. Next.js 공식 문서
+2. Tailwind CSS 공식 문서
+3. TypeScript 핸드북
