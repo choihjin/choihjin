@@ -19,8 +19,7 @@ Agent 시스템, 검색/RAG, 데이터 파이프라인, LLM 서빙을 운영 가
 
 ## Open Source
 
-- **[Orca](https://github.com/stablyai/orca) contributor** — 병렬 에이전트 ADE(Agentic Development Environment) · ⭐65k · 기여자 360+.
-  브라우저 리다이렉트 취소 버그(+569/−50), Claude 세션 복원 등
+- **[Orca](https://github.com/stablyai/orca) contributor** — 병렬 에이전트 ADE · ⭐65k · 기여자 360+ ·
   [머지 PR 3건](https://github.com/stablyai/orca/pulls?q=is%3Apr+author%3Achoihjin+is%3Amerged)
 - **[VoiceKit](https://huggingface.co/spaces/MCP-1st-Birthday/voicekit)** —
   HuggingFace MCP 1st Birthday 해커톤 · MCP 도구 6종 구현 (❤️53)
